@@ -1,2 +1,2 @@
 # perfil-social-basico
-Projeto de Perfil Social básico com html e csss
+Projeto de Perfil Social básico com html e css
